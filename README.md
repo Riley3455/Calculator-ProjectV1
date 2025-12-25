@@ -7,3 +7,4 @@ The graphical interface is built using JFrame, JPanel, JButton, and JTextField. 
 This project was developed as a learning exercise to strengthen understanding of Java GUI development, event-driven programming, and debugging common logic errors. It also served as practical experience using Git and GitHub for version control and project sharing.
 
 Future improvements may include enhanced error handling, keyboard input support, additional mathematical functions, and a more flexible layout that adapts to different screen sizes. Overall, this calculator application represents a solid introduction to building functional desktop applications in Java.
+<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/62dfeb9e-57f3-4b9f-a641-17672c4fdbfd" />
